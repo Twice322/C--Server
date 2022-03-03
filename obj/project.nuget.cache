@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "68z9zHZkxzfPsirQl9MsbZidfYdgksN9xSWyCT8bqfUVZubkvs2pofaoYNluaFeJV33uLyoBJwu12JLCLPKsZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Unity\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theal\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\theal\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
